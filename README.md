@@ -11,3 +11,4 @@ adding customized and conditional behavior and interactivity validating user inp
 The benefits of using jQuery are:
 
 Shorter and simplified syntax Help with cross-browser compatibility since jQuery deals with a lot of that stuff under the hood A strong familiarity with jQuery will only make you a better developer since it enjoys a strong market share on the web After completing this project, you'll have a solid foundaitonal knowledge of using forms in your projects. This is tremendously valuable since forms are a major aspect of most web sites and web applications, which makes this project a key addition to your portfolio, and a crucial step on your journey to becoming a professional full stack web developer.
+
